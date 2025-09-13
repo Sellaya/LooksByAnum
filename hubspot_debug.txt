@@ -1,0 +1,76 @@
+2025-09-11 04:50:27 - Ready Time: 18:12
+2025-09-11 04:50:27 - Appointment Time: 4:12 PM
+2025-09-11 04:50:27 - Full Data: {"booking_id":"BB2025b16491","client_name":"test test","client_email":"test2@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-09-19","ready_time":"18:12","appointment_time":"4:12 PM","trial_date":"2025-09-12","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":909.65,"deposit_amount":272.895,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025b16491_2025-09-11_04-50-27.pdf","status":"paid"}
+
+2025-09-11 05:34:55 - Ready Time: 12:35
+2025-09-11 05:34:55 - Appointment Time: 10:35 AM
+2025-09-11 05:34:55 - Full Data: {"booking_id":"BB2025845c76","client_name":"isma anwar","client_email":"test4@gmail.com","client_phone":"5067899876","artist_type":"team","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-09-19","ready_time":"12:35","appointment_time":"10:35 AM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":525.45,"deposit_amount":157.63500000000002,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025845c76_2025-09-11_05-34-55.pdf","status":"paid"}
+
+2025-09-12 17:30:37 - Ready Time: 12:31
+2025-09-12 17:30:37 - Appointment Time: 10:31 AM
+2025-09-12 17:30:37 - Full Data: {"booking_id":"BB2025b28d21","client_name":"test test","client_email":"test11@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-09-25","ready_time":"12:31","appointment_time":"10:31 AM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":627.15,"deposit_amount":188.14499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025b28d21_2025-09-12_17-30-37.pdf","status":"paid"}
+
+2025-09-12 17:53:32 - Ready Time: 12:52
+2025-09-12 17:53:32 - Appointment Time: 10:52 AM
+2025-09-12 17:53:32 - Full Data: {"booking_id":"BB202549ba31","client_name":"test test","client_email":"test12@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Semi Bridal","region":"Toronto\/GTA","event_date":"2025-09-18","ready_time":"12:52","appointment_time":"10:52 AM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":514.15,"deposit_amount":154.24499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB202549ba31_2025-09-12_17-53-32.pdf","status":"paid"}
+
+2025-09-12 17:58:32 - Ready Time: 12:59
+2025-09-12 17:58:32 - Appointment Time: 10:59 AM
+2025-09-12 17:58:32 - Full Data: {"booking_id":"BB202558bd8c","client_name":"isma anwar","client_email":"test13@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Semi Bridal","region":"Toronto\/GTA","event_date":"2025-09-19","ready_time":"12:59","appointment_time":"10:59 AM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":514.15,"deposit_amount":154.24499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB202558bd8c_2025-09-12_17-58-31.pdf","status":"paid"}
+
+2025-09-12 18:35:12 - Ready Time: 15:38
+2025-09-12 18:35:12 - Appointment Time: 1:38 PM
+2025-09-12 18:35:12 - Full Data: {"booking_id":"BB2025c6ae4a","client_name":"isma anwar","client_email":"test14@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Non-Bridal \/ Photoshoot","region":"Toronto\/GTA","event_date":"2025-09-26","ready_time":"15:38","appointment_time":"1:38 PM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":1000.05,"deposit_amount":500.025,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025c6ae4a_2025-09-12_18-35-12.pdf","status":"paid"}
+
+2025-09-12 19:13:54 - Ready Time: 12:15
+2025-09-12 19:13:54 - Appointment Time: 10:15 AM
+2025-09-12 19:13:54 - Full Data: {"booking_id":"BB202586f486","client_name":"test test","client_email":"test16@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Non-Bridal \/ Photoshoot","region":"Toronto\/GTA","event_date":"2025-09-26","ready_time":"12:15","appointment_time":"10:15 AM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":661.05,"deposit_amount":330.525,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB202586f486_2025-09-12_19-13-54.pdf","status":"paid"}
+
+2025-09-12 19:22:43 - Ready Time: 14:23
+2025-09-12 19:22:43 - Appointment Time: 12:23 PM
+2025-09-12 19:22:43 - Full Data: {"booking_id":"BB2025db4f6f","client_name":"test test","client_email":"test17@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Bridal","region":"Immediate Neighbors (15-30 Minutes)","event_date":"2025-09-18","ready_time":"14:23","appointment_time":"12:23 PM","trial_date":"2025-09-16","street_address":"TEST","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":1604.6,"deposit_amount":481.37999999999994,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025db4f6f_2025-09-12_19-22-42.pdf","status":"paid"}
+
+2025-09-12 19:54:28 - Ready Time: 14:53
+2025-09-12 19:54:28 - Appointment Time: 12:53 PM
+2025-09-12 19:54:28 - Full Data: {"booking_id":"BB2025ebce8a","client_name":"test test","client_email":"test18@gmail.com","client_phone":"5067899875","artist_type":"anum","service_type":"Non-Bridal \/ Photoshoot","region":"Moderate Distance (30 Minutes to 1 Hour Drive)","event_date":"2025-09-24","ready_time":"14:53","appointment_time":"12:53 PM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":1118.7,"deposit_amount":559.35,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025ebce8a_2025-09-12_19-54-28.pdf","status":"paid"}
+
+2025-09-12 19:59:16 - Ready Time: 15:58
+2025-09-12 19:59:16 - Appointment Time: 1:58 PM
+2025-09-12 19:59:16 - Full Data: {"booking_id":"BB2025cf2be6","client_name":"test test","client_email":"test19@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-09-25","ready_time":"15:58","appointment_time":"1:58 PM","trial_date":"2025-09-18","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":1361.65,"deposit_amount":408.495,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025cf2be6_2025-09-12_19-59-15.pdf","status":"paid"}
+
+2025-09-12 20:06:25 - Ready Time: 15:05
+2025-09-12 20:06:25 - Appointment Time: 1:05 PM
+2025-09-12 20:06:25 - Full Data: {"booking_id":"BB2025da0b4f","client_name":"test test","client_email":"test20@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-10-02","ready_time":"15:05","appointment_time":"1:05 PM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":627.15,"deposit_amount":188.14499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025da0b4f_2025-09-12_20-06-25.pdf","status":"paid"}
+
+2025-09-12 20:10:38 - Ready Time: 13:09
+2025-09-12 20:10:38 - Appointment Time: 11:09 AM
+2025-09-12 20:10:38 - Full Data: {"booking_id":"BB20259caa39","client_name":"test test","client_email":"test21@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Semi Bridal","region":"Moderate Distance (30 Minutes to 1 Hour Drive)","event_date":"2025-09-26","ready_time":"13:09","appointment_time":"11:09 AM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":1130,"deposit_amount":339,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB20259caa39_2025-09-12_20-10-37.pdf","status":"paid"}
+
+2025-09-12 21:31:28 - Ready Time: 17:32
+2025-09-12 21:31:28 - Appointment Time: 3:32 PM
+2025-09-12 21:31:28 - Full Data: {"booking_id":"BB20251c112b","client_name":"Shan Ali","client_email":"shaneali720@gmail.com","client_phone":"4376770182","artist_type":"anum","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-09-14","ready_time":"17:32","appointment_time":"3:32 PM","trial_date":"2025-09-13","street_address":"304 silverstone","city":"Toronto","province":"ON","postal_code":"M9V 3J4","quote_total":819.25,"deposit_amount":245.77499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB20251c112b_2025-09-12_21-31-28.pdf","status":"paid"}
+
+2025-09-12 22:18:55 - Ready Time: 17:30
+2025-09-12 22:18:55 - Appointment Time: 3:30 PM
+2025-09-12 22:18:55 - Full Data: {"booking_id":"BB2025a2d985","client_name":"isma anwar","client_email":"ismaanwar.ia@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-09-23","ready_time":"17:30","appointment_time":"3:30 PM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":627.15,"deposit_amount":188.14499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025a2d985_2025-09-12_22-18-55.pdf","status":"paid"}
+
+2025-09-12 22:32:41 - Ready Time: 16:32
+2025-09-12 22:32:41 - Appointment Time: 2:32 PM
+2025-09-12 22:32:41 - Full Data: {"booking_id":"BB2025593a8d","client_name":"isma anwar","client_email":"ismaanwar.ia@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-09-25","ready_time":"16:32","appointment_time":"2:32 PM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":627.15,"deposit_amount":188.14499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025593a8d_2025-09-12_22-32-41.pdf","status":"paid"}
+
+2025-09-12 22:38:59 - Ready Time: 17:36
+2025-09-12 22:38:59 - Appointment Time: 3:36 PM
+2025-09-12 22:38:59 - Full Data: {"booking_id":"BB202558bdfe","client_name":"isma anwar","client_email":"ismaanwar.ia@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-09-18","ready_time":"17:36","appointment_time":"3:36 PM","trial_date":"2025-09-17","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":819.25,"deposit_amount":245.77499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB202558bdfe_2025-09-12_22-38-59.pdf","status":"paid"}
+
+2025-09-12 22:45:33 - Ready Time: 17:44
+2025-09-12 22:45:33 - Appointment Time: 3:44 PM
+2025-09-12 22:45:33 - Full Data: {"booking_id":"BB2025843d39","client_name":"isma anwar","client_email":"ismaanwar.ia@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Semi Bridal","region":"Toronto\/GTA","event_date":"2025-09-19","ready_time":"17:44","appointment_time":"3:44 PM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":514.15,"deposit_amount":154.24499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025843d39_2025-09-12_22-45-33.pdf","status":"paid"}
+
+2025-09-12 23:53:02 - Ready Time: 16:51
+2025-09-12 23:53:02 - Appointment Time: 2:51 PM
+2025-09-12 23:53:02 - Full Data: {"booking_id":"BB20258e37fc","client_name":"test test","client_email":"ismaanwar.ia@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-09-23","ready_time":"16:51","appointment_time":"2:51 PM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"U7V 7S8","quote_total":627.15,"deposit_amount":188.14499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB20258e37fc_2025-09-12_23-53-02.pdf","status":"paid"}
+
+2025-09-13 00:36:04 - Ready Time: 19:18
+2025-09-13 00:36:04 - Appointment Time: 5:18 PM
+2025-09-13 00:36:04 - Full Data: {"booking_id":"BB2025de3c3b","client_name":"isma anwar","client_email":"ismaanwar.ia@gmail.com","client_phone":"5067899876","artist_type":"anum","service_type":"Bridal","region":"Toronto\/GTA","event_date":"2025-09-18","ready_time":"19:18","appointment_time":"5:18 PM","trial_date":"","street_address":"test","city":"test","province":"ON","postal_code":"A1A 1A1","quote_total":627.15,"deposit_amount":188.14499999999998,"contract_pdf":"https:\/\/quote.looksbyanum.com\/contracts\/Services_Contract_LBA_BB2025de3c3b_2025-09-13_00-36-04.pdf","status":"paid"}
+
